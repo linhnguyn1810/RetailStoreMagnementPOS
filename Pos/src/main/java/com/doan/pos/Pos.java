@@ -11,6 +11,6 @@ package com.doan.pos;
 public class Pos {
 
     public static void main(String[] args) {
-        System.out.println("linhhello ");
+        System.out.println("linh hello ");
     }
 }
